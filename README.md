@@ -1,8 +1,6 @@
 # EntregaSegura :package:
 
-EntregaSegura é um sistema robusto de gerenciamento de entregas para condomínios. Desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) de pós-graduação em Engenharia de Software, o projeto visa aprimorar o controle e a comunicação de entregas entre a portaria, os moradores e a administração dos condomínios. 
-
-:warning: *Por favor, note que este projeto é puramente acadêmico e não possui associação com quaisquer produtos comerciais de mesmo nome.*
+EntregaSegura é um sistema robusto de gerenciamento de entregas para condomínios. O projeto visa aprimorar o controle e a comunicação de entregas entre a portaria, os moradores e a administração dos condomínios. 
 
 ## :gear: Tecnologias
 
